@@ -1,0 +1,28 @@
+.bg{
+background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url('./assets/images/banner.png');
+height: 440px;
+}
+.nm{
+    align-items: center;    
+    padding-right: 300px;
+
+}
+.text{
+    
+   color: rgba(255, 255, 255, 1);
+   
+   justify-content:  center;
+    Height:47px;
+    font-weight: 700
+    ;
+    font-size: 36px;
+}
+.text2{
+    
+    Height:23px;
+    color:  rgba(255, 255, 255, 1);
+    font-weight: 400
+    ;
+    font-size: 18px;
+
+}
